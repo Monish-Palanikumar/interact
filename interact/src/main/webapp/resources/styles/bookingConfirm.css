@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+p {
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+}
+div{
+	margin-top: 50px;
+}
+a{
+	font-family: sans-serif;
+}
